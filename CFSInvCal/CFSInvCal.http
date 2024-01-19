@@ -1,0 +1,6 @@
+@CFSInvCal_HostAddress = http://localhost:5124
+
+GET {{CFSInvCal_HostAddress}}/InvestmentCal/
+Accept: application/json
+
+###
